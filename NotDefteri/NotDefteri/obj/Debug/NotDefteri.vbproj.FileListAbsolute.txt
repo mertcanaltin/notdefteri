@@ -1,0 +1,10 @@
+D:\Mutlu YALI\Gorsel1_2016\NotDefteri\NotDefteri\bin\Debug\NotDefteri.exe.config
+D:\Mutlu YALI\Gorsel1_2016\NotDefteri\NotDefteri\bin\Debug\NotDefteri.exe
+D:\Mutlu YALI\Gorsel1_2016\NotDefteri\NotDefteri\bin\Debug\NotDefteri.pdb
+D:\Mutlu YALI\Gorsel1_2016\NotDefteri\NotDefteri\bin\Debug\NotDefteri.xml
+D:\Mutlu YALI\Gorsel1_2016\NotDefteri\NotDefteri\obj\Debug\NotDefteri.Form1.resources
+D:\Mutlu YALI\Gorsel1_2016\NotDefteri\NotDefteri\obj\Debug\NotDefteri.Resources.resources
+D:\Mutlu YALI\Gorsel1_2016\NotDefteri\NotDefteri\obj\Debug\NotDefteri.vbproj.GenerateResource.Cache
+D:\Mutlu YALI\Gorsel1_2016\NotDefteri\NotDefteri\obj\Debug\NotDefteri.exe
+D:\Mutlu YALI\Gorsel1_2016\NotDefteri\NotDefteri\obj\Debug\NotDefteri.xml
+D:\Mutlu YALI\Gorsel1_2016\NotDefteri\NotDefteri\obj\Debug\NotDefteri.pdb
